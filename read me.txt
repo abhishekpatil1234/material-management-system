@@ -1,0 +1,2 @@
+install xampp server
+import materail-management-system.mysql in xampp server
